@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "openai": "^4.68.4"
+  },
+  "name": "face-recognition-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
